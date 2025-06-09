@@ -96,34 +96,6 @@
 
 ---
 
-## Shopping List
-- [ ] Ingredients for Apple Pie Chia Pudding (chia seeds, apples, cinnamon, etc.)
-- [ ] Kiwi fruit
-- [ ] Bananas
-- [ ] Fresh spinach
-- [ ] Cottage cheese
-- [ ] Eggs
-- [ ] Coconut milk
-- [ ] Thai curry paste/spices
-- [ ] Chicken breast/thighs
-- [ ] Avocados
-- [ ] Rice cakes
-- [ ] Tuna (canned)
-- [ ] Bread (for sandwiches)
-- [ ] Steak
-- [ ] Pasta (fajita-style)
-- [ ] Salmon fillets
-- [ ] Pork (for stir fry)
-- [ ] Ginger
-- [ ] Garlic
-- [ ] Potatoes
-- [ ] Lemons
-- [ ] Fresh herbs
-- [ ] Carrot sticks
-- [ ] Chickpeas
-- [ ] Yoghurt
-- [ ] Ingredients for Carrot Cake Choc Chip Cookies
-- [ ] Coffee (for lattes)
 
 ## Notes
 - Week 3 introduces more variety in breakfast options compared to previous weeks

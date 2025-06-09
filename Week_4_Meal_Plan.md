@@ -95,32 +95,6 @@
 
 ---
 
-## Shopping List
-- [ ] Cottage cheese
-- [ ] Granola
-- [ ] Bread (for toast)
-- [ ] Cacao spread
-- [ ] Bananas
-- [ ] Sweet potatoes
-- [ ] Ground meat (for cottage pie)
-- [ ] Chicken breast/thighs
-- [ ] Fish fillets
-- [ ] Turkey (for wraps)
-- [ ] Beef
-- [ ] Black beans
-- [ ] Rice
-- [ ] Tortillas/wraps
-- [ ] Cheese (for quesadillas)
-- [ ] Hummus
-- [ ] Rice cakes
-- [ ] Sultanas
-- [ ] Walnuts
-- [ ] Edamame beans
-- [ ] Ingredients for Cookie Dough Bark
-- [ ] Teriyaki sauce
-- [ ] Mustard
-- [ ] Cajun spices
-- [ ] Mixed vegetables
 
 ## Notes
 - Week 4 features alternating breakfast options between cottage cheese granola and cacao toast

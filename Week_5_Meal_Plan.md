@@ -96,38 +96,6 @@
 
 ---
 
-## Shopping List
-- [ ] Blueberries
-- [ ] Oats
-- [ ] Bread (for toast)
-- [ ] Cream cheese (regular and reduced fat)
-- [ ] Smoked salmon
-- [ ] Raspberries
-- [ ] Chia seeds
-- [ ] Dark chocolate
-- [ ] Apples
-- [ ] Cacao spread
-- [ ] Eggs
-- [ ] Massaman curry paste
-- [ ] Coconut milk
-- [ ] Curry vegetables
-- [ ] Ham
-- [ ] Cheese (for melts and quesadillas)
-- [ ] Chicken breast/thighs
-- [ ] Peanut butter/sauce
-- [ ] Thai vegetables
-- [ ] Salmon fillets
-- [ ] Fennel
-- [ ] Mediterranean vegetables
-- [ ] Potatoes (for mashing)
-- [ ] Pesto
-- [ ] Tortillas
-- [ ] Lentils
-- [ ] Carrots
-- [ ] Cucumbers
-- [ ] Popcorn
-- [ ] Ingredients for Carrot Cake Bites
-
 ## Notes
 - Week 5 emphasizes consistent breakfast routines for the first 4 days
 - Massaman Curry is the dominant lunch option for weekdays

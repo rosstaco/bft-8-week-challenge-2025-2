@@ -96,29 +96,6 @@
 
 ---
 
-## Shopping List
-- [ ] Ingredients for Carrot Cake Oats
-- [ ] Ingredients for Banana Split Bowl
-- [ ] Lamb (for meatloaf)
-- [ ] Moroccan spices
-- [ ] Four beans variety
-- [ ] Salmon
-- [ ] Corn
-- [ ] Tuna
-- [ ] Rice cakes
-- [ ] Chicken (for tikka masala and soup)
-- [ ] Prawns
-- [ ] Quinoa
-- [ ] Mushrooms
-- [ ] Risoni pasta
-- [ ] Granola bars
-- [ ] Dates
-- [ ] Peanuts
-- [ ] Fetta cheese
-- [ ] Crackers
-- [ ] Chickpeas
-- [ ] Kiwifruit
-
 ## Notes
 - The meal plan follows a structured approach with 6 eating occasions per day
 - Moroccan Lamb Meatloaf appears 4 times as lunch (Mon-Thu)
