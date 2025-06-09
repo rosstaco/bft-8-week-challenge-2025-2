@@ -1,0 +1,130 @@
+Extracted Meal Plans from Week 2 Images
+========================================
+
+=== Monday ===
+Overview
+PXI
+My PX
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Carrot Cake Oats
+MORNING SNACK
+Granola Bar
+LUNCH
+Moroccan Lamb Meatloaf
+AFTERNOON SNACK
+Peanuts
+DINNER
+Chicken Tikka Masala
+LATE EVENING SNACK
+Kiwifruit
+
+--------------------
+
+=== Tuesday ===
+BREAKFAST
+Banana Split Bowl
+MORNING SNACK
+Dates
+LUNCH
+Moroccan Lamb Meatloaf
+AFTERNOON SNACK
+Granola Bar
+DINNER
+Chicken Tikka Masala
+LATE EVENING SNACK
+Roasted Chickpeas
+
+--------------------
+
+=== Wednesday ===
+BREAKFAST
+Carrot Cake Oats
+MORNING SNACK
+Granola Bar
+LUNCH
+Moroccan Lamb Meatloaf
+ifie
+AFTERNOON SNACK
+Dates
+DINNER
+Fresh Prawn Wraps
+LATE EVENING SNACK
+Kiwifruit
+
+--------------------
+
+=== Thursday ===
+BREAKFAST
+Banana Split Bowl
+MORNING SNACK
+Fetta & Crackers
+LUNCH
+Moroccan Lamb Meatloaf
+€
+AFTERNOON SNACK
+Granola Bar
+DINNER
+Fresh Prawn Wraps
+LATE EVENING SNACK
+Kiwifruit
+1€
+
+--------------------
+
+=== Friday ===
+BREAKFAST
+Carrot Cake Oats
+MORNING SNACK
+Granola Bar
+LUNCH
+Four Bean & Salmon Salad
+AFTERNOON SNACK
+Roasted Chickpeas
+DINNER
+Moroccan Chicken & Quinoa Salad
+LATE EVENING SNACK
+Dates
+: €
+€
+: €
+€
+
+--------------------
+
+=== Saturday ===
+BREAKFAST
+Banana Split Bowl
+MORNING SNACK
+Dates
+LUNCH
+Corn & Tuna Salad Rice Cakes
+AFTERNOON SNACK
+Peanuts
+DINNER
+Chicken, Mushroom & Risoni Soup
+LATE EVENING SNACK
+Roasted Chickpeas
+
+--------------------
+
+=== Sunday ===
+BREAKFAST
+Carrot Cake Oats
+MORNING SNACK
+Roasted Chickpeas
+LUNCH
+Corn & Tuna Salad Rice Cakes
+€
+AFTERNOON SNACK
+Peanuts
+DINNER
+Chicken, Mushroom & Risoni Soup
+LATE EVENING SNACK
+Kiwifruit
+
+--------------------
+

@@ -1,0 +1,220 @@
+Extracted Meal Plans from Week_1 Images
+==================================================
+
+=== Monday ===
+16:18 4
+64
+8 WEEK CHALLENGE
+Overview
+PXI
+My PXI
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Shakshuka Eggs
+MORNING SNACK
+Peanut Butter Rice Cakes
+LUNCH
+Ham & Avo Salad Sandwich
+AFTERNOON SNACK
+Granola Bar
+DINNER
+Naked Parma & Veg
+LATE EVENING SNACK
+Yoghurt, Pumpkin Seeds & Coconut
+Home
+Workouts
+Challenges
+Community
+Menu
+
+--------------------
+
+=== Tuesday ===
+16:18 1
+8 WEEK CHALLENGE
+Overview
+PXI
+My PXI
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Choc Chip Banana Bread Baked Oats
+MORNING SNACK
+Peanut Butter Rice Cakes
+LUNCH
+Healthy Chicken Pasta
+AFTERNOON SNACK
+Apple
+DINNER
+Healthy Tuna Mornay
+LATE EVENING SNACK
+Yoghurt, Pumpkin Seeds & Coconut
+Home
+Workouts
+Challenges
+Community
+Menu
+
+--------------------
+
+=== Wednesday ===
+16:18 1
+8 WEEK CHALLENGE
+Overview
+PXI
+My PXI
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Choc Chip Banana Bread Baked Oats
+MORNING SNACK
+Granola Bar
+LUNCH
+Healthy Chicken Pasta
+AFTERNOON SNACK
+Boiled Eggs
+DINNER
+Roast Pumpkin & Spiced Beef Bowl
+LATE EVENING SNACK
+Peanut Butter Rice Cakes
+Home
+Workouts
+Challenges
+Community
+Menu
+
+--------------------
+
+=== Thursday ===
+16:18 1
+•ll
+8 WEEK CHALLENGE
+Overview
+PXI
+My PXI
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Choc Chip Banana Bread Baked Oats
+MORNING SNACK
+Boiled Eggs
+LUNCH
+Healthy Chicken Pasta
+AFTERNOON SNACK
+Granola Bar
+DINNER
+Roast Pumpkin & Spiced Beef Bowl
+LATE EVENING SNACK
+Apple
+Home
+Workouts
+Challenges
+Community
+Menu
+
+--------------------
+
+=== Friday ===
+16:18 1
+•ll
+8 WEEK CHALLENGE
+Overview
+PXI
+My PXI
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Ham, Cheese & Tomato Toastie
+MORNING SNACK
+Boiled Eggs
+LUNCH
+Mexican Beef Wrap
+AFTERNOON SNACK
+Apple
+DINNER
+Cheats Beef 'Empanada'
+LATE EVENING SNACK
+Yoghurt, Pumpkin Seeds & Coconut
+Home
+Workouts
+Challenges
+Community
+Menu
+
+--------------------
+
+=== Saturday ===
+16:18 1
+64
+8 WEEK CHALLENGE
+Overview
+PXI
+My PXI
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Shakshuka Eggs
+MORNING SNACK
+Yoghurt, Pumpkin Seeds & Coconut
+LUNCH
+Ham & Avo Salad Sandwich
+AFTERNOON SNACK
+Apple
+DINNER
+Naked Parma & Veg
+LATE EVENING SNACK
+Granola Bar
+Home
+11|
+Workouts
+Challenges
+Community
+Menu
+
+--------------------
+
+=== Sunday ===
+16:18 4
+•ll
+64
+8 WEEK CHALLENGE
+Overview
+PXI
+My PXI
+EVolt
+Photos
+Nutrition
+Advice
+BREAKFAST
+Shakshuka Eggs
+MORNING SNACK
+Peanut Butter Rice Cakes
+LUNCH
+Ham & Avo Salad Sandwich
+AFTERNOON SNACK
+Granola Bar
+DINNER
+Naked Parma & Veg
+LATE EVENING SNACK
+Yoghurt, Pumpkin Seeds & Coconut
+Home
+Workouts
+Challenges
+Community
+Menu
+
+--------------------
+
