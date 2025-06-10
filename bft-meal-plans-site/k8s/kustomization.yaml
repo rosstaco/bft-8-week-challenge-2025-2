@@ -1,0 +1,31 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+metadata:
+  name: bft-meal-plans
+
+namespace: bft-challenge
+
+resources:
+  - namespace.yaml
+  - deployment.yaml
+  - service.yaml
+  - ingress.yaml
+
+images:
+  - name: bft-meal-plans
+    newName: examplecr.org/bft-meal-plans
+    newTag: latest
+
+commonLabels:
+  app: bft-meal-plans
+  version: v1.0.0
+  component: frontend
+
+commonAnnotations:
+  app.kubernetes.io/name: bft-meal-plans
+  app.kubernetes.io/instance: bft-meal-plans-prod
+  app.kubernetes.io/version: "1.0.0"
+  app.kubernetes.io/component: frontend
+  app.kubernetes.io/part-of: bft-challenge
+  app.kubernetes.io/managed-by: kustomize

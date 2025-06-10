@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bft-challenge
+  labels:
+    name: bft-challenge
+    app.kubernetes.io/name: bft-challenge
+    app.kubernetes.io/part-of: bft-challenge

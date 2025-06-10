@@ -1,0 +1,27 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: bft-meal-plans-ingress
+  namespace: bft-challenge
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
+    cert-manager.io/cluster-issuer: "letsencrypt-prod" # Adjust if you have a different cert issuer
+spec:
+  ingressClassName: nginx
+  tls:
+    - hosts:
+        - bft-challenge.local
+      secretName: bft-challenge-tls
+  rules:
+    - host: bft-challenge.local
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: bft-meal-plans-service
+                port:
+                  number: 80
