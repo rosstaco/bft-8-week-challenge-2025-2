@@ -6,7 +6,7 @@
 |------|--------|---------|-----------|----------|--------|----------|--------|
 | **Breakfast** | Chocolate Hazelnut Breakfast Oats | Fetta & Avo Toast | Chocolate Hazelnut Breakfast Oats | Fetta & Avo Toast | Chocolate Hazelnut Breakfast Oats | Fetta & Avo Toast | Chocolate Hazelnut Breakfast Oats |
 | **Morning Snack** | Pear | Yoghurt & Hazelnuts | Pear | Peanut Butter Dates | Peanut Butter Dates | Carrot Cake Bites | Pear |
-| **Lunch** | Chicken Fajita Wraps | Thai Chicken Curry With Rice | Thai Chicken Curry With Rice | Thai Chicken Curry With Rice | Tuna, Olive & Tahini Salad | Chicken Fajita Wraps | Chicken Fajita Wraps |
+| **Lunch** | Thai Chicken Curry With Rice | Thai Chicken Curry With Rice | Thai Chicken Curry With Rice | Thai Chicken Curry With Rice | Tuna, Olive & Tahini Salad | Chicken Fajita Wraps | Chicken Fajita Wraps |
 | **Afternoon Snack** | Peanut Butter Dates | Carrot Cake Bites | Fetta & Crackers | Yoghurt & Hazelnuts | Carrot Cake Bites | Pear | Peanut Butter Dates |
 | **Dinner** | Pesto Chicken Risoni | Haloumi Tacos | Vietnamese Salmon Noodle Bowl | Nutty Noodle Soup With Beef Strips | Nutty Noodle Soup With Beef Strips | Pesto Chicken Risoni | Pesto Chicken Risoni |
 | **Late Evening Snack** | Dark Chocolate | Peanut Butter Dates | Carrot Cake Bites | Carrot Cake Bites | Dark Chocolate | Yoghurt & Hazelnuts | Dark Chocolate |
@@ -18,7 +18,7 @@
 ### Monday
 - **Breakfast:** Chocolate Hazelnut Breakfast Oats
 - **Morning Snack:** Pear
-- **Lunch:** Chicken Fajita Wraps
+- **Lunch:** Thai Chicken Curry With Rice
 - **Afternoon Snack:** Peanut Butter Dates
 - **Dinner:** Pesto Chicken Risoni
 - **Late Evening Snack:** Dark Chocolate
